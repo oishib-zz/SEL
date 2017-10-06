@@ -1,0 +1,10 @@
+LaTeX/Kos_path.cls
+*.aux
+*.pdf
+*.gz
+*.log
+*.gz(busy)
+*.toc
+*.fls
+*.dvi
+*latexmk
