@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  14 OCT 2017 17:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  14 OCT 2017 17:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,27 +6,24 @@ entering extended mode
 (./Korv.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
-
-! LaTeX Error: File `Sel.cls' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: cls)
-
-Enter file name: 
+(./Sel.cls (./Sel_path.cls)
+! I can't find file `/Users/maitreebanerjee/documents/Sel/LaTeX/gametex.sty'.
+l.250 \input \latex/gametex.sty
+                               
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name
 ! Emergency stop.
-<read *> 
-         
-l.2 \begin
-          {document}^^M
-*** (cannot \read from terminal in nonstop modes)
+l.250 \input \latex/gametex.sty
+                               
+*** (job aborted, file error in nonstop mode)
 
  
 Here is how much of TeX's memory you used:
- 10 strings out of 493089
- 156 string characters out of 6134842
+ 71 strings out of 493089
+ 765 string characters out of 6134842
  53199 words of memory out of 5000000
- 3593 multiletter control sequences out of 15000+600000
+ 3646 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 10i,0n,7p,40b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 11i,0n,7p,407b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!
