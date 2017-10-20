@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  19 OCT 2017 18:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  19 OCT 2017 19:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**mem-PRINT.tex
-(./mem-PRINT.tex
+**Magic.tex
+(./Magic.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (./Sel.cls (./Sel_path.cls)
@@ -31,7 +31,7 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 ))) 
-  Options: --> mems --> packet --> cardsheet --> fullsheet 
+  Options: --> green --> sheet 
   Packages: verbatim multicol comma multido alltt ulem
   Graphics Packages: pstricks graphicx lscape
   Symbol Packages: latexsym amssymb textcomp
@@ -387,84 +387,4 @@ Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
 Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
 Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
 Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
-Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
-Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
-
-Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
-Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
-Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
-Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
-Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
-Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
-Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
-Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
-Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
-Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
-Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
-Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
-Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
-Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
-Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
-Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
-Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
-Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
-Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
-Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
-Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
-Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
-Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
-Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
-Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
-Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
-Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
-Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
-Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
-Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
-Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
-Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
-Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
-Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
-Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
-Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
-Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
-)
-(/Users/maitreebanerjee/documents/Sel/LaTeX/extraction.sty
-\!toks=\toks33
-)
-(/Users/maitreebanerjee/documents/Sel/LaTeX/parsename.sty
-\*count=\count134
-)
-(/Users/maitreebanerjee/documents/Sel/LaTeX/datatypes.sty
-\:count=\count135
-\:toks=\toks34
-)
-(/Users/maitreebanerjee/documents/Sel/Lists/blue-LIST.tex)
-(/Users/maitreebanerjee/documents/Sel/Lists/green-LIST.tex)
-(/Users/maitreebanerjee/documents/Sel/Lists/abil-LIST.tex)
-(/Users/maitreebanerjee/documents/Sel/Lists/combat-LIST.tex)
-(/Users/maitreebanerjee/documents/Sel/Lists/mem-LIST.tex)
-Runaway argument?
-{ \s \MYname {Open this if you ever a lich with an alpha score of at \ETC.
-! File ended while scanning use of \NEW.
-<inserted text> 
-                \par 
-l.3 \begin
-          {document}
-? 
-! Emergency stop.
-<inserted text> 
-                \par 
-l.3 \begin
-          {document}
-End of file on the terminal!
-
- 
-Here is how much of TeX's memory you used:
- 10280 strings out of 493089
- 167162 string characters out of 6134842
- 227796 words of memory out of 5000000
- 13648 multiletter control sequences out of 15000+600000
- 4253 words of font info for 16 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 46i,0n,42p,412b,186s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+Pac
