@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  20 OCT 2017 11:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  20 OCT 2017 19:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**Korv.tex
-(./Korv.tex
+**listchar-PRINT.tex
+(./listchar-PRINT.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (./Sel.cls (./Sel_path.cls)
@@ -31,7 +31,7 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 ))) 
-  Options: --> char --> sheet 
+  Options: --> listchar --> char --> sheet 
   Packages: verbatim multicol comma multido alltt ulem
   Graphics Packages: pstricks graphicx lscape
   Symbol Packages: latexsym amssymb textcomp
@@ -467,33 +467,34 @@ Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 (/usr/local/texlive/2015/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(./Korv.aux)
-\openout1 = `Korv.aux'.
+(./listchar-PRINT.aux)
+\openout1 = `listchar-PRINT.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
-LaTeX Font Info:    ... okay on input line 2.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
-LaTeX Font Info:    ... okay on input line 2.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
-LaTeX Font Info:    ... okay on input line 2.
-LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 2.
-LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 2.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 3.
+LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 3.
 
- (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omspzccm.fd
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omspzccm.fd
 File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
 )
-LaTeX Font Info:    ... okay on input line 2.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
-LaTeX Font Info:    ... okay on input line 2.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
-LaTeX Font Info:    ... okay on input line 2.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 2.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 2.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 3.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    ... okay on input line 3.
 
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -552,47 +553,59 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Carminis.tex)
+(./listchar-PRINT.aux)
+\openout1 = `listchar-PRINT.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Carminis.tex)
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 27.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 27.
-LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 27
-.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1.
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 1.
+
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptmcm.fd
 File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 27
-.
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 1.
+
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlptmcm.fd
 File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+psycm on input line 27
-.
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 1.
+
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omxpsycm.fd
 File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
-LaTeX Font Info:    Try loading font information for U+lasy on input line 27.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 1.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 27.
+LaTeX Font Info:    Try loading font information for U+msa on input line 1.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 27.
+LaTeX Font Info:    Try loading font information for U+msb on input line 1.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -607,25 +620,134 @@ map/pdftex.map}
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!]
-(/Users/maitreebanerjee/documents/Sel/Charsheets/Korv.tex) [2] (./Korv.aux) ) 
+Non-PDF special ignored!
+
+] [2] (./listchar-PRINT.aux)
+\openout1 = `listchar-PRINT.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Domin.tex)
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Domin.tex)
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+ [1
+
+] [2]
+(./listchar-PRINT.aux)
+\openout1 = `listchar-PRINT.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Korv.tex)
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Korv.tex) [1
+
+] [2]
+(./listchar-PRINT.aux)
+\openout1 = `listchar-PRINT.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Lock.tex)
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Lock.tex)
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+ [1
+
+] [2]
+(./listchar-PRINT.aux)
+\openout1 = `listchar-PRINT.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Sollers.tex)
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Sollers.tex)
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+ [1
+
+] [2]
+(./listchar-PRINT.aux)
+\openout1 = `listchar-PRINT.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Specter.tex)
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Specter.tex) [1
+
+] [2]
+(./listchar-PRINT.aux)
+\openout1 = `listchar-PRINT.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Tyran.tex)
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Tyran.tex)
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+
+Overfull \hbox (2.35486pt too wide) in paragraph at lines 1--1
+[]\OT1/ptm/m/n/10 Carminis has al-ready tapped into that in-tox-i-cat-ing po-te
+n-tial by ac-com-plish-ing a feat that even you long con-sid-ered impossible--
+ []
+
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+[1
+
+]
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ô in font ptmr7t!
+ [2] [3] [4
+
+] (./listchar-PRINT.aux)
+\openout1 = `listchar-PRINT.aux'.
+
+ (./listchar-PRINT.aux) ) 
 Here is how much of TeX's memory you used:
- 12393 strings out of 493089
- 191614 string characters out of 6134842
- 258343 words of memory out of 5000000
- 15640 multiletter control sequences out of 15000+600000
- 20242 words of font info for 51 fonts, out of 8000000 for 9000
+ 13257 strings out of 493089
+ 200631 string characters out of 6134842
+ 291592 words of memory out of 5000000
+ 16454 multiletter control sequences out of 15000+600000
+ 21338 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,13n,45p,1146b,1257s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/
-usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texli
-ve/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/te
-xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/f
-onts/type1/urw/times/utmri8a.pfb>
-Output written on Korv.pdf (2 pages, 40749 bytes).
+ 45i,13n,45p,6760b,1774s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/ba
+se/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
+</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/loc
+al/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive
+/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on listchar-PRINT.pdf (16 pages, 91140 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
- 16 compressed objects within 1 object stream
+ 73 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

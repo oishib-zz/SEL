@@ -31,7 +31,7 @@
 %
 %everyone
 \NEW{Abil}{\aLichDetectionSpell}{
-  \s\MYname	{Lich Detection Spell}
+  \s\MYname	{Lich Detection Spell (Costs 1 unit of power)}
   \s\MYtext	{Target a creature within 1 ZOC of you. You automatically learn whether the target is a lich or not. Ask a GM for the answer.}
   \s\MYeffect	{You perceive me casting a spell.}
   \suite
@@ -47,7 +47,7 @@
   %everyone
 
   \NEW{Abil}{\aKillSpell}{
-  \s\MYname	{Kill Spell (Costs 3 units of power)}
+  \s\MYname	{Kill Spell (Costs 5 units of power)}
   \s\MYtext	{Pick a target within 1 ZOC of you and announce out of game that you are targeting them with this spell. It is immediately obvious to all characters who can see or hear you that you are attempting to murder your target. If the target is not a lich, they immediately die.}
   \s\MYeffect	{You perceive me casting a Kill Spell.}
   \suite
@@ -63,22 +63,23 @@
   %everyone
 
   \NEW{Abil}{\aPickpocketSpell}{
-  \s\MYname	{Pickpocket Spell}
+  \s\MYname	{Pickpocket Spell (Costs 1 unit of power)}
   \s\MYtext	{Pick a target within a 1 ZOC of you. Tell a GM who your target is. You will receive one item that your target is concealing on their person, chosen at random. If the target is not carrying any items, this spell has no effect. When using this spell, do not announce that you are casting a spell.}
   \s\MYeffect	{You don't see me doing anything.}
   \suite
   }
   %Carminis
   \NEW{Abil}{\aFakeLichAuraSpell}{
-  \s\MYname	{Fake Lich Aura Spell}
+  \s\MYname	{Fake Lich Aura Spell (Costs 1 unit of power)}
   \s\MYtext	{For one hour, any Lich Detection Spell targeting you will claim that you are a lich. Tell a GM when you cast this.
   }
   \s\MYeffect	{You perceive me casting a spell.}
   \suite
   }
   %Specter
+  %plus 2 copies in pixie dust deposits
   \NEW{Abil}{\aDestroyPhylacterySpell}{
-  \s\MYname	{Destroy Phylactery Spell (Costs 5 units of power)}
+  \s\MYname	{Destroy Phylactery Spell (Costs 4 units of power)}
   \s\MYtext	{If you are holding a phylactery, you can target it with this spell. Roll a D20. If your roll is greater than or equal to the amount of power in the phylactery, then you successfully destroy the phylactery. Otherwise, the spell has no effect.
   }
   \s\MYeffect	{You perceive me casting a spell.}
@@ -86,12 +87,65 @@
   }
   %Lock
    \NEW{Abil}{\aMinorResistanceSpell}{
-  \s\MYname	{Minor Resistance Spell}
+  \s\MYname	{Minor Resistance Spell (Costs 1 unit of power)}
   \s\MYtext	{Pick a magical item that is not a phylactery. You can ignore its magical effects for 30 minutes.
   }
   \s\MYeffect	{You perceive me casting a spell.}
   \suite
   }
+  
+%1 copy, pixie
+    \NEW{Abil}{\aResurrectionSpell}{
+  \s\MYname	{Resurrection Spell (Costs 2 units of power, One-time Use)}
+  \s\MYtext	{Pick a corpse as a target, and they come back to life. This ability can be used once.
+  }
+  \s\MYeffect	{I cast a powerful spell. The ground rumbles, and you come back to life.}
+  \suite
+  }
+  
+ %5 copies with pixies
+\NEW{Abil}{\aTruthingSpell}{
+  \s\MYname	{Truthing Spell (Costs 1 units of power, One-time Use)}
+  \s\MYtext	{For five minutes, you can only say things you believe to be true. Your listeners are sure that you mean what you say during this period.
+  }
+  \s\MYeffect	{You perceive me casting a spell. For five minutes, you are sure that I believe everything I am saying to be true.}
+  \suite
+  }
+  
+   %5 copies with pixies
+\NEW{Abil}{\aMusicSpell}{
+  \s\MYname	{Music Spell (Costs 1 units of power, One-time Use)}
+  \s\MYtext	{For one minute, music of your choice plays. The instrument type is classified as "magic."
+  }
+  \s\MYeffect	{You perceive me casting a spell. Pretty magical music plays.}
+  \suite
+  } 
+  
+     %5 copies with pixies
+\NEW{Abil}{\aHaloSpell}{
+  \s\MYname	{Halo Spell (Costs 1 units of power, One-time Use)}
+  \s\MYtext	{For one minute, an ethereal golden halo hovers over your head.
+  }
+  \s\MYeffect	{You perceive me casting a spell. An airy golden halo appears above me.}
+  \suite
+  } 
+       %5 copies with pixies
+\NEW{Abil}{\aEyeColorSpell}{
+  \s\MYname	{Eye Color Spell (Costs 1 units of power, One-time Use)}
+  \s\MYtext	{For the rest of the day, your irises change to a color of your choice.
+  }
+  \s\MYeffect	{You perceive me casting a spell. My eye color changes.}
+  \suite
+  } 
+  
+         %2 copies with pixies
+\NEW{Abil}{\aEfficiencySpell}{
+  \s\MYname	{Efficiency Spell (Costs 2 units of power, One-time Use)}
+  \s\MYtext	{For the next fifteen minutes, you can cast spells that require only 1 unit of power without paying the 1-unit cost.
+  }
+  \s\MYeffect	{You perceive me casting a spell.}
+  \suite
+  } 
 %\NEW{Abil}{\aSpecial}{
 %  \s\MYname	{Special Powers}
 %  \s\MYtext	{You have special powers, as detailed in your \gTest{}

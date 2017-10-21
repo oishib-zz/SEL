@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.8)  20 OCT 2017 19:45
 entering extended mode
 **C:/Users/charf/OneDrive/Documents/GitHub/SEL/Production/listblue-PRINT.tex
@@ -9,6 +10,20 @@ Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
 (C:/Users/charf/OneDrive/Documents/GitHub/SEL/LaTeX/gametex.sty
 Document Class: Sel 
   --- Society of Ethical Liches --- Oct 27, 2017 ---
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  20 OCT 2017 19:26
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**listblue-PRINT.tex
+(./listblue-PRINT.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(./Sel.cls (./Sel_path.cls)
+(/Users/maitreebanerjee/documents/Sel/LaTeX/gametex.sty
+Document Class: Sel 
+  --- Society of Ethical Liches --- June 2, 2017 ---
+>>>>>>> 09a1e57bf743ef4e65be65489c763b5af0725f78
 \@multicount=\count79
 \@mapbox=\box26
 \@@@unique=\count80
@@ -432,6 +447,7 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
+<<<<<<< HEAD
 (C:/Users/charf/OneDrive/Documents/GitHub/SEL/LaTeX/extraction.sty
 \!toks=\toks33
 )
@@ -469,6 +485,43 @@ s
 \f@nch@O@erf=\skip52
 \f@nch@O@olf=\skip53
 \f@nch@O@orf=\skip54
+=======
+(/Users/maitreebanerjee/documents/Sel/LaTeX/extraction.sty
+\!toks=\toks33
+)
+(/Users/maitreebanerjee/documents/Sel/LaTeX/parsename.sty
+\*count=\count134
+)
+(/Users/maitreebanerjee/documents/Sel/LaTeX/datatypes.sty
+\:count=\count135
+\:toks=\toks34
+)
+(/Users/maitreebanerjee/documents/Sel/Lists/blue-LIST.tex)
+(/Users/maitreebanerjee/documents/Sel/Lists/green-LIST.tex)
+(/Users/maitreebanerjee/documents/Sel/Lists/abil-LIST.tex)
+(/Users/maitreebanerjee/documents/Sel/Lists/combat-LIST.tex)
+(/Users/maitreebanerjee/documents/Sel/Lists/mem-LIST.tex)
+(/Users/maitreebanerjee/documents/Sel/Lists/item-LIST.tex)
+(/Users/maitreebanerjee/documents/Sel/Lists/white-LIST.tex)
+(/Users/maitreebanerjee/documents/Sel/Lists/notebook-LIST.tex)
+(/Users/maitreebanerjee/documents/Sel/Lists/money-LIST.tex)
+(/Users/maitreebanerjee/documents/Sel/Lists/sign-LIST.tex)
+(/Users/maitreebanerjee/documents/Sel/Lists/subowner-LIST.tex)
+(/Users/maitreebanerjee/documents/Sel/Lists/gm-LIST.tex)
+(/Users/maitreebanerjee/documents/Sel/Lists/char-LIST.tex)
+(/Users/maitreebanerjee/documents/Sel/Lists/place-LIST.tex)
+(/Users/maitreebanerjee/documents/Sel/Lists/run1-LIST.tex)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+>>>>>>> 09a1e57bf743ef4e65be65489c763b5af0725f78
 )
 (C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
@@ -556,11 +609,29 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
+<<<<<<< HEAD
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 (C:/Users/charf/OneDrive/Documents/GitHub/SEL/Bluesheets/Society.tex)
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+=======
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/Users/maitreebanerjee/documents/Sel/Bluesheets/Society.tex)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no œ in font ptmr7t!
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no  in font ptmr7t!
+>>>>>>> 09a1e57bf743ef4e65be65489c763b5af0725f78
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
@@ -568,7 +639,11 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
 LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 1.
 
 
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptmcm.fd"
+=======
+(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptmcm.fd
+>>>>>>> 09a1e57bf743ef4e65be65489c763b5af0725f78
 File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
 )
 LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 1.
@@ -613,6 +688,7 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!] [2] [3] [4
 
+<<<<<<< HEAD
 ] (listblue-PRINT.aux)
 \openout1 = `listblue-PRINT.aux'.
 
@@ -632,6 +708,29 @@ s/type1/urw/times/utmri8a.pfb>
 Output written on listblue-PRINT.pdf (4 pages, 51632 bytes).
 PDF statistics:
  28 PDF objects out of 1000 (max. 8388607)
+=======
+] (./listblue-PRINT.aux)
+\openout1 = `listblue-PRINT.aux'.
+
+
+(./listblue-PRINT.aux) ) 
+Here is how much of TeX's memory you used:
+ 12776 strings out of 493089
+ 194288 string characters out of 6134842
+ 291851 words of memory out of 5000000
+ 16020 multiletter control sequences out of 15000+600000
+ 18668 words of font info for 48 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 45i,13n,45p,11597b,687s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/bas
+e/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><
+/usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local
+/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on listblue-PRINT.pdf (4 pages, 48169 bytes).
+PDF statistics:
+ 30 PDF objects out of 1000 (max. 8388607)
+ 20 compressed objects within 1 object stream
+>>>>>>> 09a1e57bf743ef4e65be65489c763b5af0725f78
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
