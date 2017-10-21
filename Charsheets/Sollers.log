@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  17 OCT 2017 21:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  20 OCT 2017 19:08
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **Sollers.tex
 (./Sollers.tex
@@ -564,42 +565,42 @@ Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no ™ in font ptmr7t!
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 17.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 19.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 17.
-LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 17
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 19.
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 19
 .
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptmcm.fd
 File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 17
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 19
 .
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlptmcm.fd
 File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+psycm on input line 17
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 19
 .
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omxpsycm.fd
 File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 19.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
-LaTeX Font Info:    Try loading font information for U+lasy on input line 17.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 19.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 19.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 17.
+LaTeX Font Info:    Try loading font information for U+msa on input line 19.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 17.
+LaTeX Font Info:    Try loading font information for U+msb on input line 19.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -618,18 +619,18 @@ Non-PDF special ignored!]
 (/Users/maitreebanerjee/documents/Sel/Charsheets/Sollers.tex) [2]
 (./Sollers.aux) ) 
 Here is how much of TeX's memory you used:
- 12223 strings out of 493089
- 190340 string characters out of 6134842
- 256499 words of memory out of 5000000
- 15470 multiletter control sequences out of 15000+600000
+ 13127 strings out of 493089
+ 197890 string characters out of 6134842
+ 283776 words of memory out of 5000000
+ 16374 multiletter control sequences out of 15000+600000
  20242 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,14n,45p,1300b,1236s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 44i,13n,45p,1300b,1365s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.en
 c}</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/lo
 cal/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texliv
 e/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Sollers.pdf (2 pages, 39949 bytes).
+Output written on Sollers.pdf (2 pages, 42410 bytes).
 PDF statistics:
  24 PDF objects out of 1000 (max. 8388607)
  16 compressed objects within 1 object stream
