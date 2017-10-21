@@ -29,6 +29,69 @@
 %  \s\MYeffect	{This is a Test.}
 %  }
 %
+%everyone
+\NEW{Abil}{\aLichDetectionSpell}{
+  \s\MYname	{Lich Detection Spell}
+  \s\MYtext	{Target a creature within 1 ZOC of you. You automatically learn whether the target is a lich or not. Ask a GM for the answer.}
+  \s\MYeffect	{You perceive me casting a spell.}
+  \suite
+  }
+  %everyone
+
+  \NEW{Abil}{\aMajorResistanceSpell}{
+  \s\MYname	{Major Resistance Spell (Costs 3 units of power)}
+  \s\MYtext	{If you cast this within five seconds of being targeted by a Kill Spell or Knock-out Spell, you ignore that spell. If you have been targeted by multiple Kill Spells and/or Knock-out Spells in the last five seconds, this only allows you to ignore one of your choice.}
+  \s\MYeffect	{You perceive me casting a spell.}
+  \suite
+  }
+  %everyone
+
+  \NEW{Abil}{\aKillSpell}{
+  \s\MYname	{Kill Spell (Costs 3 units of power)}
+  \s\MYtext	{Pick a target within 1 ZOC of you and announce out of game that you are targeting them with this spell. It is immediately obvious to all characters who can see or hear you that you are attempting to murder your target. If the target is not a lich, they immediately die.}
+  \s\MYeffect	{You perceive me casting a Kill Spell.}
+  \suite
+  }
+  %everyone
+
+  \NEW{Abil}{\aKnockoutSpell}{
+  \s\MYname	{Knockout Spell (Costs 2 units of power)}
+  \s\MYtext	{Pick a target within 1 ZOC of you and announce out of game that you are targeting them with this spell. It is immediately obvious to all characters who can see or hear you that you are attempting to knock your target unconscious. Your target is knocked out for 5 minutes.}
+  \s\MYeffect	{You perceive me casting a Knockout Spell.}
+  \suite
+  }
+  %everyone
+
+  \NEW{Abil}{\aPickpocketSpell}{
+  \s\MYname	{Pickpocket Spell}
+  \s\MYtext	{Pick a target within a 1 ZOC of you. Tell a GM who your target is. You will receive one item that your target is concealing on their person, chosen at random. If the target is not carrying any items, this spell has no effect. When using this spell, do not announce that you are casting a spell.}
+  \s\MYeffect	{You don't see me doing anything.}
+  \suite
+  }
+  %Carminis
+  \NEW{Abil}{\aFakeLichAuraSpell}{
+  \s\MYname	{Fake Lich Aura Spell}
+  \s\MYtext	{For one hour, any Lich Detection Spell targeting you will claim that you are a lich. Tell a GM when you cast this.
+  }
+  \s\MYeffect	{You perceive me casting a spell.}
+  \suite
+  }
+  %Specter
+  \NEW{Abil}{\aDestroyPhylacterySpell}{
+  \s\MYname	{Destroy Phylactery Spell (Costs 5 units of power)}
+  \s\MYtext	{If you are holding a phylactery, you can target it with this spell. Roll a D20. If your roll is greater than or equal to the amount of power in the phylactery, then you successfully destroy the phylactery. Otherwise, the spell has no effect.
+  }
+  \s\MYeffect	{You perceive me casting a spell.}
+  \suite
+  }
+  %Lock
+   \NEW{Abil}{\aMinorResistanceSpell}{
+  \s\MYname	{Minor Resistance Spell}
+  \s\MYtext	{Pick a magical item that is not a phylactery. You can ignore its magical effects for 30 minutes.
+  }
+  \s\MYeffect	{You perceive me casting a spell.}
+  \suite
+  }
 %\NEW{Abil}{\aSpecial}{
 %  \s\MYname	{Special Powers}
 %  \s\MYtext	{You have special powers, as detailed in your \gTest{}
