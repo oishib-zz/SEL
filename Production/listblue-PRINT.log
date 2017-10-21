@@ -1,27 +1,21 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  1 JUN 2017 20:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.8)  20 OCT 2017 19:45
 entering extended mode
- restricted \write18 enabled.
- file:line:error style messages enabled.
- %&-line parsing enabled.
-**listblue-PRINT.tex
-(./listblue-PRINT.tex
-LaTeX2e <2015/01/01>
-Babel <3.9l> and hyphenation patterns for 79 languages loaded.
-
-(/Users/maitreebanerjee/Library/texmf/tex/The-Wedding-by-the-Acheron/LaTeX/Kos.
-cls
-(/Users/maitreebanerjee/Library/texmf/tex/The-Wedding-by-the-Acheron/LaTeX/Kos_
-path.cls)
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/LaTeX/gametex.sty
-Document Class: Kos 
-  --- The Wedding by the Acheron --- June 2, 2017 ---
+**C:/Users/charf/OneDrive/Documents/GitHub/SEL/Production/listblue-PRINT.tex
+(C:/Users/charf/OneDrive/Documents/GitHub/SEL/Production/listblue-PRINT.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+(C:\Users\charf\OneDrive\Documents\GitHub\SEL\LaTeX\Sel.cls
+(C:\Users\charf\OneDrive\Documents\GitHub\SEL\LaTeX\Sel_path.cls)
+(C:/Users/charf/OneDrive/Documents/GitHub/SEL/LaTeX/gametex.sty
+Document Class: Sel 
+  --- Society of Ethical Liches --- Oct 27, 2017 ---
 \@multicount=\count79
 \@mapbox=\box26
 \@@@unique=\count80
 \@jobcnt=\count81
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size10.clo
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count82
@@ -40,7 +34,7 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
   Packages: verbatim multicol comma multido alltt ulem
   Graphics Packages: pstricks graphicx lscape
   Symbol Packages: latexsym amssymb textcomp
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pslatex/pslatex.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\pslatex\pslatex.sty"
 Package: pslatex 1996/07/24 v1.2 pslatex emulation (DPC)
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 65.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -74,13 +68,13 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 75.
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/verbatim.sty
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks14
 \verbatim@line=\toks15
 \verbatim@in@stream=\read1
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \c@tracingmulticols=\count90
 \mult@box=\box27
 \multicol@leftmargin=\dimen103
@@ -127,21 +121,21 @@ Package: multicol 2015/03/31 v1.8m multicolumn formatting (FMi)
 \mult@nat@firstbox=\box51
 \colbreak@box=\box52
 \mc@col@check@num=\count98
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/comma/comma.sty
+) (C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\latex\comma\comma.sty
 Package: comma 1997/12/15 v1.2 Insert commas every three digits (DPC)
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/multido/multido.sty
+) (C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\latex\multido\multido.sty
 Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/multido/multido.tex  v1.42, 201
-0/05/14 <tvz>
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\generic\multido\multido.tex  v1.
+42, 2010/05/14 <tvz>
 \multido@count=\count99
 \multidocount=\count100
 \multido@stuff=\toks16
 )
 File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/base/alltt.sty
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\alltt.sty"
 Package: alltt 1997/06/16 v2.0g defines alltt environment
-) (/usr/local/texlive/2015/texmf-dist/tex/generic/ulem/ulem.sty
+) (C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\latex\ulem\ulem.sty
 \UL@box=\box53
 \UL@hyphenbox=\box54
 \UL@skip=\skip45
@@ -152,54 +146,81 @@ Package: alltt 1997/06/16 v2.0g defines alltt environment
 \ULC@box=\box55
 Package: ulem 2012/05/18
 \ULdepth=\dimen114
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/pstricks/pstricks.sty
-Package: pstricks 2013/12/12 v0.60 LaTeX wrapper for `PSTricks' (RN,HV)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
-) (/usr/local/texlive/2015/texmf-dist/tex/generic/pstricks/pstricks.tex (/usr/l
-ocal/texlive/2015/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\pstricks\pstricks.sty"
+Package: pstricks 2017/03/17 v0.63 LaTeX wrapper for `PSTricks' (RN,HV)
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count102
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pstricks.tex" ("C:\Program
+ Files\MiKTeX 2.9\tex\generic\xkeyval\pst-xkey.tex"
 File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local
-/texlive/2015/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex" ("C:\Program Fil
+es\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
 \XKV@toks=\toks18
 \XKV@tempa@toks=\toks19
-(/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/keyval.tex))
-\XKV@depth=\count102
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\keyval.tex"))
+\XKV@depth=\count103
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))) (/usr/local/texlive/2015/texmf-dist/tex/generic/pstricks/pst-fp.tex `pst-fp
-' v0.05, 2010/01/17 (hv)
-\pstFP@xs=\count103
-\pstFP@xia=\count104
-\pstFP@xib=\count105
-\pstFP@xfa=\count106
-\pstFP@xfb=\count107
-\pstFP@rega=\count108
-\pstFP@regb=\count109
-\pstFP@regs=\count110
-\pstFP@times=\count111
+))) ("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pst-fp.tex" `pst-fp' v0.
+05, 2010/01/17 (hv)
+\pstFP@xs=\count104
+\pstFP@xia=\count105
+\pstFP@xib=\count106
+\pstFP@xfa=\count107
+\pstFP@xfb=\count108
+\pstFP@rega=\count109
+\pstFP@regb=\count110
+\pstFP@regs=\count111
+\pstFP@times=\count112
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
-x
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
+mmon.tex
 \pgfutil@everybye=\toks20
 \pgfutil@tempdima=\dimen115
 \pgfutil@tempdimb=\dimen116
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
-sts.tex)) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeys
-.code.tex
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
+mmon-lists.tex))
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
+de.tex
 \pgfkeys@pathtoks=\toks21
 \pgfkeys@temptoks=\toks22
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
-ode.tex
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfil
+tered.code.tex
 \pgfkeys@tmptoks=\toks23
-)) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/utilities/pgffor.code.te
-x (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/u
-sr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/us
-r/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+))
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor.cod
+e.tex
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathcalc.cod
+e.tex
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathutil.cod
+e.tex
 \pgf@x=\dimen117
 \pgf@xa=\dimen118
 \pgf@xb=\dimen119
@@ -208,49 +229,51 @@ r/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
 \pgf@ya=\dimen122
 \pgf@yb=\dimen123
 \pgf@yc=\dimen124
-\c@pgf@counta=\count112
-\c@pgf@countb=\count113
-\c@pgf@countc=\count114
-\c@pgf@countd=\count115
-\pgfutil@tempcnta=\count116
-\pgfutil@tempcntb=\count117
+\c@pgf@counta=\count113
+\c@pgf@countb=\count114
+\c@pgf@countc=\count115
+\c@pgf@countd=\count116
+\pgfutil@tempcnta=\count117
+\pgfutil@tempcntb=\count118
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.c
+ode.tex
 \pgfmath@dimen=\dimen125
-\pgfmath@count=\count118
+\pgfmath@count=\count119
 \pgfmath@box=\box56
 \pgfmath@toks=\toks24
 \pgfmath@stack@operand=\toks25
 \pgfmath@stack@operation=\toks26
 )
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
-tex
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
-.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
-nometric.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
-m.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
-rison.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
-code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
-.code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
-code.tex)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
-erarithmetics.code.tex))) (/usr/local/texlive/2015/texmf-dist/tex/generic/pgf/m
-ath/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count119
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.code.tex
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.basic.code.tex)
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.trigonometric.code.tex)
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.random.code.tex)
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.comparison.code.tex)
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.base.code.tex)
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.round.code.tex)
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.misc.code.tex)
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.integerarithmetics.code.tex)))
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.co
+de.tex
+\c@pgfmathroundto@lastzeros=\count120
 ))
 \pgffor@iter=\dimen126
 \pgffor@skip=\dimen127
 \pgffor@stack=\toks27
 \pgffor@toks=\toks28
 )
-\psLoopIndex=\count120
-`PSTricks' v2.60  <2014/10/25> (tvz)
+\psLoopIndex=\count121
+`PSTricks' v2.73a  <2017/05/22> (tvz)
 \pst@dima=\dimen128
 \pst@dimb=\dimen129
 \pst@dimc=\dimen130
@@ -264,23 +287,23 @@ ath/pgfmathfloat.code.tex
 \pst@hbox=\box57
 \pst@ibox=\box58
 \pst@boxg=\box59
-\pst@cnta=\count121
-\pst@cntb=\count122
-\pst@cntc=\count123
-\pst@cntd=\count124
-\pst@cntg=\count125
-\pst@cnth=\count126
-\pst@cntm=\count127
-\pst@cntn=\count128
-\pst@cnto=\count129
-\pst@cntp=\count130
-\@zero=\count131
+\pst@cnta=\count122
+\pst@cntb=\count123
+\pst@cntc=\count124
+\pst@cntd=\count125
+\pst@cntg=\count126
+\pst@cnth=\count127
+\pst@cntm=\count128
+\pst@cntn=\count129
+\pst@cnto=\count130
+\pst@cntp=\count131
+\@zero=\count132
 \pst@toks=\toks29
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pstricks/pstricks.con)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pstricks.con")
 \psunit=\dimen138
 \psxunit=\dimen139
 \psyunit=\dimen140
-\pst@C@@rType=\count132
+\pst@C@@rType=\count133
 \pslinewidth=\dimen141
 \psk@startLW=\dimen142
 \psk@endLW=\dimen143
@@ -296,64 +319,40 @@ ath/pgfmathfloat.code.tex
 \sh@wgridYunit=\dimen151
 \pst@shift=\dimen152
 )
-File: pstricks.tex 2014/10/25 v2.60 `PSTricks' (tvz,hv)
-(/usr/local/texlive/2015/texmf-dist/tex/generic/pstricks/pst-fp.tex)
-File: pst-fp.tex 2014/10/25 v2.60 `PST-fp' (hv)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
-)
-Package xcolor Info: Driver file: pdftex.def on input line 225.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count133
-)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
-Package xcolor Info: Model `RGB' extended on input line 1353.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
-)) (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+File: pstricks.tex 2017/05/22 v2.73a `PSTricks' (tvz,hv)
+("C:\Program Files\MiKTeX 2.9\tex\generic\pstricks\pst-fp.tex")
+File: pst-fp.tex 2017/05/22 v2.73a `PST-fp' (hv)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 94.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 )
 \Gin@req@height=\dimen153
 \Gin@req@width=\dimen154
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/lscape.sty
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/base/latexsym.sty
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\latexsym.sty"
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
-) (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks32
 \symAMSa=\mathgroup7
 \symAMSb=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/usr/local/texlive/2015/texmf-dist/tex/latex/base/textcomp.sty
-Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
 (textcomp)               4 = 5 + \texteuro
@@ -366,7 +365,7 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             Family '?' is the default used for unknown fonts.
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1enc.def
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 )
 LaTeX Info: Redefining \oldstylenums on input line 334.
@@ -433,64 +432,48 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 )
-
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/LaTeX/extraction.s
-ty
+(C:/Users/charf/OneDrive/Documents/GitHub/SEL/LaTeX/extraction.sty
 \!toks=\toks33
 )
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/LaTeX/parsename.st
-y
+(C:/Users/charf/OneDrive/Documents/GitHub/SEL/LaTeX/parsename.sty
 \*count=\count134
 )
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/LaTeX/datatypes.st
-y
+(C:/Users/charf/OneDrive/Documents/GitHub/SEL/LaTeX/datatypes.sty
 \:count=\count135
 \:toks=\toks34
 )
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/Lists/blue-LIST.te
-x)
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/Lists/green-LIST.t
-ex)
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/Lists/abil-LIST.te
-x)
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/Lists/combat-LIST.
-tex)
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/Lists/mem-LIST.tex
+(C:/Users/charf/OneDrive/Documents/GitHub/SEL/Lists/blue-LIST.tex)
+(C:/Users/charf/OneDrive/Documents/GitHub/SEL/Lists/green-LIST.tex)
+(C:/Users/charf/OneDrive/Documents/GitHub/SEL/Lists/abil-LIST.tex)
+(C:/Users/charf/OneDrive/Documents/GitHub/SEL/Lists/combat-LIST.tex)
+(C:/Users/charf/OneDrive/Documents/GitHub/SEL/Lists/mem-LIST.tex)
+(C:/Users/charf/OneDrive/Documents/GitHub/SEL/Lists/item-LIST.tex)
+(C:/Users/charf/OneDrive/Documents/GitHub/SEL/Lists/white-LIST.tex)
+(C:/Users/charf/OneDrive/Documents/GitHub/SEL/Lists/notebook-LIST.tex)
+(C:/Users/charf/OneDrive/Documents/GitHub/SEL/Lists/money-LIST.tex)
+(C:/Users/charf/OneDrive/Documents/GitHub/SEL/Lists/sign-LIST.tex)
+(C:/Users/charf/OneDrive/Documents/GitHub/SEL/Lists/subowner-LIST.tex)
+(C:/Users/charf/OneDrive/Documents/GitHub/SEL/Lists/gm-LIST.tex)
+(C:/Users/charf/OneDrive/Documents/GitHub/SEL/Lists/char-LIST.tex)
+(C:/Users/charf/OneDrive/Documents/GitHub/SEL/Lists/place-LIST.tex)
+(C:/Users/charf/OneDrive/Documents/GitHub/SEL/Lists/run1-LIST.tex)
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip46
+\f@nch@O@elh=\skip47
+\f@nch@O@erh=\skip48
+\f@nch@O@olh=\skip49
+\f@nch@O@orh=\skip50
+\f@nch@O@elf=\skip51
+\f@nch@O@erf=\skip52
+\f@nch@O@olf=\skip53
+\f@nch@O@orf=\skip54
 )
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/Lists/item-LIST.te
-x)
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/Lists/white-LIST.t
-ex)
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/Lists/notebook-LIS
-T.tex)
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/Lists/money-LIST.t
-ex)
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/Lists/sign-LIST.te
-x)
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/Lists/subowner-LIS
-T.tex)
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/Lists/gm-LIST.tex)
-
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/Lists/char-LIST.te
-x)
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/Lists/place-LIST.t
-ex)
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/Lists/run1-LIST.te
-x) (/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-\fancy@headwidth=\skip46
-\f@ncyO@elh=\skip47
-\f@ncyO@erh=\skip48
-\f@ncyO@olh=\skip49
-\f@ncyO@orh=\skip50
-\f@ncyO@elf=\skip51
-\f@ncyO@erf=\skip52
-\f@ncyO@olf=\skip53
-\f@ncyO@orf=\skip54
-)
-(/usr/local/texlive/2015/texmf-dist/tex/latex/setspace/setspace.sty
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(./listblue-PRINT.aux)
+(listblue-PRINT.aux)
 \openout1 = `listblue-PRINT.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -502,8 +485,7 @@ LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 3.
 LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 3.
 
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omspzccm.fd
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omspzccm.fd"
 File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
 )
 LaTeX Font Info:    ... okay on input line 3.
@@ -513,13 +495,12 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 3.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 3.
 
-(/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
+(C:\Users\charf\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count136
 \scratchdimen=\dimen155
@@ -532,81 +513,74 @@ LaTeX Font Info:    ... okay on input line 3.
 \MPnumerator=\count140
 \makeMPintoPDFobject=\count141
 \everyMPtoPDFconversion=\toks36
-) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
-(/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/Charsheets/Anarchi
-st.tex) (./listblue-PRINT.aux)
-\openout1 = `listblue-PRINT.aux'.
-
-
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/Bluesheets/General
-History.tex)
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+(C:/Users/charf/OneDrive/Documents/GitHub/SEL/Bluesheets/Society.tex)
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1.
 LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 1.
 
- (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptmcm.fd
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptmcm.fd"
 File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
 )
 LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 1.
 
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlptmcm.fd
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlptmcm.fd"
 File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
 )
 LaTeX Font Info:    Try loading font information for OMX+psycm on input line 1.
 
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omxpsycm.fd
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxpsycm.fd"
 File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
@@ -615,98 +589,49 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Try loading font information for U+lasy on input line 1.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ulasy.fd
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ulasy.fd"
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Try loading font information for U+msa on input line 1.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 1.
 
-(/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/upd
-map/pdftex.map}
+Non-PDF special ignored!{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!
+Non-PDF special ignored!] [2] [3] [4
 
-]
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
- [2] [3] [4
-
-] (./listblue-PRINT.aux)
+] (listblue-PRINT.aux)
 \openout1 = `listblue-PRINT.aux'.
 
-
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/Bluesheets/Blackgu
-ards.tex)
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no “ in font ptmr7t!
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 1.
- (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-[1
-
-] [2
-
-] (./listblue-PRINT.aux)
-\openout1 = `listblue-PRINT.aux'.
-
-
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/Bluesheets/SabineT
-raditions.tex) [1
-
-] [2
-
-] (./listblue-PRINT.aux)
-\openout1 = `listblue-PRINT.aux'.
-
-
-(/Users/maitreebanerjee/documents/The-Wedding-by-the-Acheron/Bluesheets/WhosWho
-.tex)
-Missing character: There is no ’ in font ptmb7t!
-Missing character: There is no ’ in font ptmri7t!
- [1
-
-]
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no “ in font ptmr7t!
-Missing character: There is no ’ in font ptmri7t!
- [2] (./listblue-PRINT.aux)
-\openout1 = `listblue-PRINT.aux'.
-
- (./listblue-PRINT.aux) ) 
+ (listblue-PRINT.aux) ) 
 Here is how much of TeX's memory you used:
- 15336 strings out of 493089
- 217083 string characters out of 6134842
- 387471 words of memory out of 5000000
- 18552 multiletter control sequences out of 15000+600000
- 22269 words of font info for 53 fonts, out of 8000000 for 9000
+ 12839 strings out of 493323
+ 196384 string characters out of 3139067
+ 294028 words of memory out of 3000000
+ 16135 multiletter control sequences out of 15000+200000
+ 18668 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,13n,45p,12910b,2016s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/ba
-se/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
-</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/loc
-al/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive
-/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on listblue-PRINT.pdf (10 pages, 77222 bytes).
+ 45i,13n,45p,11493b,748s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
+}<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/urw/times/utmri8a.pfb>
+Output written on listblue-PRINT.pdf (4 pages, 51632 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 28 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
