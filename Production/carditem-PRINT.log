@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  22 OCT 2017 13:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  22 OCT 2017 13:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**abil-PRINT.tex
-(./abil-PRINT.tex
+**carditem-PRINT.tex
+(./carditem-PRINT.tex
 LaTeX2e <2015/01/01>
 Babel <3.9l> and hyphenation patterns for 79 languages loaded.
 (./Sel.cls (./Sel_path.cls)
@@ -32,7 +32,7 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 ))) 
-  Options: --> abils --> cardsheet --> fullsheet 
+  Options: --> carditems --> items --> packet --> cardsheet --> fullsheet 
   Packages: verbatim multicol comma multido alltt ulem
   Graphics Packages: pstricks graphicx lscape
   Symbol Packages: latexsym amssymb textcomp
@@ -474,17 +474,28 @@ Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 \back_page=\box65
 \scratch_dimen=\dimen155
 )
-\abilheight=\dimen156
-\abilwidth=\dimen157
-\whitespace=\dimen158
-\abiltxtmarg=\dimen159
-\effectframe=\dimen160
-\abil@front=\box66
-\abil@back=\box67
-\abtxt@wd=\dimen161
-\temp@dimen=\dimen162
- (./abil-PRINT.aux)
-\openout1 = `abil-PRINT.aux'.
+\packetspace=\dimen156
+\packetwidth=\dimen157
+\text@box=\box66
+\trig@box=\box67
+\text@ht=\dimen158
+\trig@ht=\dimen159
+\tot@ht=\dimen160
+\par@wd=\dimen161
+\bookwidth=\dimen162
+\bookheight=\dimen163
+\temp@dimen=\dimen164
+\temp@box=\box68
+\itemheight=\dimen165
+\itemwidth=\dimen166
+\whitespace=\dimen167
+\shadesep=\dimen168
+\temp@dimen=\dimen169
+\temp@box=\box69
+
+(/Users/maitreebanerjee/Library/texmf/tex/The-Wedding-by-the-Acheron/Production
+/carditem-PRINT.aux)
+\openout1 = `carditem-PRINT.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -517,13 +528,13 @@ LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count136
-\scratchdimen=\dimen163
-\scratchbox=\box68
+\scratchdimen=\dimen170
+\scratchbox=\box70
 \nofMPsegments=\count137
 \nofMParguments=\count138
 \everyMPshowfont=\toks35
 \MPscratchCnt=\count139
-\MPscratchDim=\dimen164
+\MPscratchDim=\dimen171
 \MPnumerator=\count140
 \makeMPintoPDFobject=\count141
 \everyMPtoPDFconversion=\toks36
@@ -572,61 +583,70 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 8.09995pt on input line 6.
+(Font)              scaled to size 4.49997pt on input line 5.
+
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Carminis.tex)
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 8.09995pt on input line 5.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 6.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 8.99994pt on input line 6.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 6.
+(Font)              scaled to size 8.99994pt on input line 5.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 12.9599pt on input line 6.
-LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 6.
+(Font)              scaled to size 10.79993pt on input line 5.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 7.19995pt on input line 5.
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 5.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptmcm.fd
 File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 6.
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 5.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlptmcm.fd
 File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+psycm on input line 6.
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 5.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omxpsycm.fd
 File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 6.
-LaTeX Font Info:    Try loading font information for U+lasy on input line 6.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 5.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 6.
+LaTeX Font Info:    Try loading font information for U+msa on input line 5.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 6.
+LaTeX Font Info:    Try loading font information for U+msb on input line 5.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(./abil-PRINT.aux)
-\openout1 = `abil-PRINT.aux'.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 10.79993pt on input line 5.
+
+(./carditem-PRINT.aux)
+\openout1 = `carditem-PRINT.aux'.
 
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 6.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 8.09995pt on input line 6.
+(Font)              scaled to size 8.09995pt on input line 5.
  [1
 Non-PDF special ignored!
 Non-PDF special ignored!
@@ -640,33 +660,65 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 
-] [2] (./abil-PRINT.aux)
-\openout1 = `abil-PRINT.aux'.
+] [2]
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Domin.tex)
+(./carditem-PRINT.aux)
+\openout1 = `carditem-PRINT.aux'.
 
  [1
 
-] [2] (./abil-PRINT.aux)
-\openout1 = `abil-PRINT.aux'.
+] [2]
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Korv.tex)
+(./carditem-PRINT.aux)
+\openout1 = `carditem-PRINT.aux'.
 
+ [1
 
-[1
+] [2]
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Lock.tex)
+(./carditem-PRINT.aux)
+\openout1 = `carditem-PRINT.aux'.
 
-] [2] (./abil-PRINT.aux) ) 
+ [1
+
+] [2]
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Sollers.tex)
+(./carditem-PRINT.aux)
+\openout1 = `carditem-PRINT.aux'.
+
+ [1
+
+] [2]
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Specter.tex)
+(./carditem-PRINT.aux)
+\openout1 = `carditem-PRINT.aux'.
+
+ [1
+
+] [2]
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Tyran.tex)
+(./carditem-PRINT.aux)
+\openout1 = `carditem-PRINT.aux'.
+
+ [1
+
+] [2] (./carditem-PRINT.aux) ) 
 Here is how much of TeX's memory you used:
- 13242 strings out of 493089
- 197893 string characters out of 6134842
- 314395 words of memory out of 5000000
- 16486 multiletter control sequences out of 15000+600000
- 19958 words of font info for 50 fonts, out of 8000000 for 9000
+ 13579 strings out of 493089
+ 202402 string characters out of 6134842
+ 304086 words of memory out of 5000000
+ 16790 multiletter control sequences out of 15000+600000
+ 23970 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,13n,45p,446b,532s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/b
-ase/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.
-pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on abil-PRINT.pdf (6 pages, 26968 bytes).
+ 47i,13n,45p,1446b,1470s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvi
+ps/base/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhv
+b8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb
+>
+Output written on carditem-PRINT.pdf (14 pages, 27338 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
+ 59 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
