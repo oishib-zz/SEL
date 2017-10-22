@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  22 OCT 2017 13:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  22 OCT 2017 14:33
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **paperitem-PRINT.tex
 (./paperitem-PRINT.tex
@@ -661,13 +660,13 @@ Non-PDF special ignored!
 Missing character: There is no € in font phvr7t!
 Missing character: There is no ™ in font phvr7t!
 
-./paperitem-PRINT.tex:5: Missing $ inserted.
+! Missing $ inserted.
 <inserted text> 
                 $
 l.5 \production
                
 ? 
-./paperitem-PRINT.tex:5: Emergency stop.
+! Emergency stop.
 <inserted text> 
                 $
 l.5 \production
@@ -676,12 +675,11 @@ End of file on the terminal!
 
  
 Here is how much of TeX's memory you used:
- 13548 strings out of 493089
- 201293 string characters out of 6134842
- 308129 words of memory out of 5000000
- 16789 multiletter control sequences out of 15000+600000
+ 13588 strings out of 493089
+ 201601 string characters out of 6134842
+ 309669 words of memory out of 5000000
+ 16829 multiletter control sequences out of 15000+600000
  23421 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  47i,13n,45p,982b,1470s stack positions out of 5000i,500n,10000p,200000b,80000s
-./paperitem-PRINT.tex:5:  ==> Fatal error occurred, no output PDF file produced
-!
+!  ==> Fatal error occurred, no output PDF file produced!
