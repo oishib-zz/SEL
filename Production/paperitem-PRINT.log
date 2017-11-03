@@ -660,4 +660,25 @@ Non-PDF special ignored!
 (/Users/maitreebanerjee/documents/Sel/Charsheets/Domin.tex)
 ./paperitem-PRINT.tex:6: Undefined control sequence.
 \MYitems ->\iBlackPen 
-       
+                      {}\iIphoneSeven {}\iBaseball {}\iTruffle {}\iYellowApp...
+l.6 \production
+               
+? 
+./paperitem-PRINT.tex:6: Emergency stop.
+\MYitems ->\iBlackPen 
+                      {}\iIphoneSeven {}\iBaseball {}\iTruffle {}\iYellowApp...
+l.6 \production
+               
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 13679 strings out of 493089
+ 202485 string characters out of 6134842
+ 312675 words of memory out of 5000000
+ 16920 multiletter control sequences out of 15000+600000
+ 23421 words of font info for 54 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 47i,13n,45p,982b,1470s stack positions out of 5000i,500n,10000p,200000b,80000s
+./paperitem-PRINT.tex:6:  ==> Fatal error occurred, no output PDF file produced
+!

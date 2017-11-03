@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  22 OCT 2017 13:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  2 NOV 2017 17:16
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **listchar-PRINT.tex
 (./listchar-PRINT.tex
@@ -625,17 +624,7 @@ Non-PDF special ignored!
 
 
 (/Users/maitreebanerjee/documents/Sel/Charsheets/Domin.tex)
-(/Users/maitreebanerjee/documents/Sel/Charsheets/Domin.tex)
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
- [1
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Domin.tex) [1
 
 ] [2]
 (./listchar-PRINT.aux)
@@ -663,14 +652,7 @@ Missing character: There is no ô in font ptmr7t!
 
 
 (/Users/maitreebanerjee/documents/Sel/Charsheets/Sollers.tex)
-(/Users/maitreebanerjee/documents/Sel/Charsheets/Sollers.tex)
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
- [1
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Sollers.tex) [1
 
 ] [2]
 (./listchar-PRINT.aux)
@@ -687,10 +669,6 @@ Missing character: There is no ô in font ptmr7t!
 
 (/Users/maitreebanerjee/documents/Sel/Charsheets/Tyran.tex)
 (/Users/maitreebanerjee/documents/Sel/Charsheets/Tyran.tex)
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-
 Overfull \hbox (2.35486pt too wide) in paragraph at lines 1--1
 []\OT1/ptm/m/n/10 Carminis has al-ready tapped into that in-tox-i-cat-ing po-te
 n-tial by ac-com-plish-ing a feat that even you long con-sid-ered impossible--
@@ -712,19 +690,19 @@ Missing character: There is no ô in font ptmr7t!
 
  (./listchar-PRINT.aux) ) 
 Here is how much of TeX's memory you used:
- 13677 strings out of 493089
- 204101 string characters out of 6134842
- 318512 words of memory out of 5000000
- 16874 multiletter control sequences out of 15000+600000
+ 14011 strings out of 493089
+ 207340 string characters out of 6134842
+ 329678 words of memory out of 5000000
+ 17208 multiletter control sequences out of 15000+600000
  21338 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,13n,45p,6769b,1774s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,13n,45p,6916b,1769s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/ba
 se/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
 </usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/loc
 al/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive
 /2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on listchar-PRINT.pdf (16 pages, 91400 bytes).
+Output written on listchar-PRINT.pdf (16 pages, 93719 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
