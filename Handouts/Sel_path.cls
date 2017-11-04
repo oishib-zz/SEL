@@ -1,1 +1,0 @@
-\edef\gamepath{"/Users/maitreebanerjee/documents/Sel"}

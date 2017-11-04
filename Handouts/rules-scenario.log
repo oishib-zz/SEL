@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.8)  17 OCT 2017 18:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.8.8)  22 OCT 2017 18:47
 entering extended mode
 **C:/Users/charf/OneDrive/Documents/GitHub/SEL/Handouts/rules-scenario.tex
 (C:/Users/charf/OneDrive/Documents/GitHub/SEL/Handouts/rules-scenario.tex
@@ -648,10 +648,10 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
 ]
 (rules-scenario.aux) ) 
 Here is how much of TeX's memory you used:
- 12114 strings out of 493323
- 191020 string characters out of 3139067
- 256579 words of memory out of 3000000
- 15409 multiletter control sequences out of 15000+200000
+ 13380 strings out of 493323
+ 200944 string characters out of 3139067
+ 305028 words of memory out of 3000000
+ 16675 multiletter control sequences out of 15000+200000
  31541 words of font info for 74 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,12n,45p,693b,291s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -659,7 +659,7 @@ Here is how much of TeX's memory you used:
 <C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files
 /MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
 /type1/urw/times/utmri8a.pfb>
-Output written on rules-scenario.pdf (11 pages, 70955 bytes).
+Output written on rules-scenario.pdf (11 pages, 70952 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
