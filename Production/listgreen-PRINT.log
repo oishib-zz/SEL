@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  2 NOV 2017 17:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  3 NOV 2017 18:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -553,6 +553,11 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Carminis.tex)
+(./listgreen-PRINT.aux)
+\openout1 = `listgreen-PRINT.aux'.
+
+
 (/Users/maitreebanerjee/documents/Sel/Greensheets/Phylactery.tex)
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
@@ -610,25 +615,18 @@ map/pdftex.map}
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!] [2] (./listgreen-PRINT.aux)
+Non-PDF special ignored!
+
+] [2] (./listgreen-PRINT.aux)
 \openout1 = `listgreen-PRINT.aux'.
 
 
-(/Users/maitreebanerjee/documents/Sel/Greensheets/CarminisMagicalUnderstanding.
-tex) [1
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Voting.tex) [1
 
 ] [2
 
-] (./listgreen-PRINT.aux)
-\openout1 = `listgreen-PRINT.aux'.
-
-
-(/Users/maitreebanerjee/documents/Sel/Greensheets/SollersMagicalUnderstanding.t
-ex) [1
-
-] [2
-
-] (./listgreen-PRINT.aux)
+]
+(./listgreen-PRINT.aux)
 \openout1 = `listgreen-PRINT.aux'.
 
 
@@ -643,46 +641,7 @@ Missing character: There is no ™ in font ptmr7t!
 ] [2
 
 ]
-(./listgreen-PRINT.aux)
-No file listgreen-PRINT1.aux.
-\openout1 = `listgreen-PRINT1.aux'.
-
-(/Users/maitreebanerjee/documents/Sel/Greensheets/Voting.tex) [1
-
-] [2
-
-]
-(./listgreen-PRINT1.aux)
-\openout1 = `listgreen-PRINT1.aux'.
-
-
-(/Users/maitreebanerjee/documents/Sel/Greensheets/CarminisSoulBond.tex)
-Missing character: There is no Î in font ptmr7t!
-Missing character: There is no ± in font ptmr7t!
-
-[1
-
-] [2
-
-] (./listgreen-PRINT1.aux)
-\openout1 = `listgreen-PRINT1.aux'.
-
-
-(/Users/maitreebanerjee/documents/Sel/Greensheets/TyranSoulBond.tex)
-Missing character: There is no Î in font ptmr7t!
-Missing character: There is no ± in font ptmr7t!
-Missing character: There is no Î in font ptmr7t!
-Missing character: There is no ± in font ptmr7t!
-Missing character: There is no Î in font ptmr7t!
-Missing character: There is no ± in font ptmr7t!
-Missing character: There is no Î in font ptmr7t!
-Missing character: There is no ± in font ptmr7t!
- [1
-
-]
-[2
-
-] (./listgreen-PRINT1.aux)
+(./listgreen-PRINT.aux) (./listgreen-PRINT1.aux)
 \openout1 = `listgreen-PRINT1.aux'.
 
 
@@ -703,23 +662,384 @@ Missing character: There is no ± in font ptmr7t!
 (./listgreen-PRINT1.aux)
 \openout1 = `listgreen-PRINT1.aux'.
 
- (./listgreen-PRINT1.aux) ) 
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/CarminisSoulBond.tex)
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+
+[1
+
+] [2
+
+] (./listgreen-PRINT1.aux)
+\openout1 = `listgreen-PRINT1.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/CarminisMagicalUnderstanding.
+tex) [1
+
+] [2
+
+] (./listgreen-PRINT1.aux)
+\openout1 = `listgreen-PRINT1.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Domin.tex)
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Phylactery.tex)
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [1
+
+] [2]
+(./listgreen-PRINT1.aux)
+\openout1 = `listgreen-PRINT1.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Voting.tex) [1
+
+] [2
+
+]
+(./listgreen-PRINT1.aux)
+\openout1 = `listgreen-PRINT1.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Magic.tex) [1
+
+] [2
+
+]
+(./listgreen-PRINT1.aux)
+\openout1 = `listgreen-PRINT1.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Items.tex) [1
+
+] [2
+
+]
+(./listgreen-PRINT1.aux)
+\openout1 = `listgreen-PRINT1.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/MindControl.tex)
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [1
+
+] [2
+
+]
+(./listgreen-PRINT1.aux)
+No file listgreen-PRINT2.aux.
+\openout1 = `listgreen-PRINT2.aux'.
+
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Korv.tex)
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Phylactery.tex)
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [1
+
+] [2]
+(./listgreen-PRINT2.aux)
+\openout1 = `listgreen-PRINT2.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Voting.tex) [1
+
+] [2
+
+]
+(./listgreen-PRINT2.aux)
+\openout1 = `listgreen-PRINT2.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Magic.tex) [1
+
+] [2
+
+]
+(./listgreen-PRINT2.aux)
+\openout1 = `listgreen-PRINT2.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Items.tex) [1
+
+] [2
+
+]
+(./listgreen-PRINT2.aux)
+\openout1 = `listgreen-PRINT2.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/MindControl.tex)
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [1
+
+] [2
+
+]
+(./listgreen-PRINT2.aux)
+No file listgreen-PRINT3.aux.
+\openout1 = `listgreen-PRINT3.aux'.
+
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Lock.tex)
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Phylactery.tex)
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [1
+
+] [2]
+(./listgreen-PRINT3.aux)
+\openout1 = `listgreen-PRINT3.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Voting.tex) [1
+
+] [2
+
+]
+(./listgreen-PRINT3.aux)
+\openout1 = `listgreen-PRINT3.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Magic.tex) [1
+
+] [2
+
+]
+(./listgreen-PRINT3.aux)
+\openout1 = `listgreen-PRINT3.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Items.tex) [1
+
+] [2
+
+]
+(./listgreen-PRINT3.aux)
+\openout1 = `listgreen-PRINT3.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/MindControl.tex)
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [1
+
+] [2
+
+]
+(./listgreen-PRINT3.aux)
+No file listgreen-PRINT4.aux.
+\openout1 = `listgreen-PRINT4.aux'.
+
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Sollers.tex)
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Phylactery.tex)
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [1
+
+] [2]
+(./listgreen-PRINT4.aux)
+\openout1 = `listgreen-PRINT4.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Voting.tex) [1
+
+] [2
+
+]
+(./listgreen-PRINT4.aux)
+\openout1 = `listgreen-PRINT4.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Magic.tex) [1
+
+] [2
+
+]
+(./listgreen-PRINT4.aux)
+\openout1 = `listgreen-PRINT4.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Items.tex) [1
+
+] [2
+
+]
+(./listgreen-PRINT4.aux)
+\openout1 = `listgreen-PRINT4.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/SollersMagicalUnderstanding.t
+ex) [1
+
+] [2
+
+] (./listgreen-PRINT4.aux)
+\openout1 = `listgreen-PRINT4.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/MindControl.tex)
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [1
+
+] [2
+
+]
+(./listgreen-PRINT4.aux)
+No file listgreen-PRINT5.aux.
+\openout1 = `listgreen-PRINT5.aux'.
+
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Specter.tex)
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Phylactery.tex)
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [1
+
+] [2]
+(./listgreen-PRINT5.aux)
+\openout1 = `listgreen-PRINT5.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Voting.tex) [1
+
+] [2
+
+]
+(./listgreen-PRINT5.aux)
+\openout1 = `listgreen-PRINT5.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Magic.tex) [1
+
+] [2
+
+]
+(./listgreen-PRINT5.aux)
+\openout1 = `listgreen-PRINT5.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Items.tex) [1
+
+] [2
+
+]
+(./listgreen-PRINT5.aux)
+\openout1 = `listgreen-PRINT5.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/MindControl.tex)
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [1
+
+] [2
+
+]
+(./listgreen-PRINT5.aux)
+No file listgreen-PRINT6.aux.
+\openout1 = `listgreen-PRINT6.aux'.
+
+(/Users/maitreebanerjee/documents/Sel/Charsheets/Tyran.tex)
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Phylactery.tex)
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [1
+
+] [2]
+(./listgreen-PRINT6.aux)
+\openout1 = `listgreen-PRINT6.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Voting.tex) [1
+
+] [2
+
+]
+(./listgreen-PRINT6.aux)
+\openout1 = `listgreen-PRINT6.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/MindControl.tex)
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ™ in font ptmr7t!
+ [1
+
+] [2
+
+]
+(./listgreen-PRINT6.aux)
+No file listgreen-PRINT7.aux.
+\openout1 = `listgreen-PRINT7.aux'.
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Magic.tex) [1
+
+] [2
+
+]
+(./listgreen-PRINT7.aux)
+\openout1 = `listgreen-PRINT7.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/Items.tex) [1
+
+] [2
+
+]
+(./listgreen-PRINT7.aux)
+\openout1 = `listgreen-PRINT7.aux'.
+
+
+(/Users/maitreebanerjee/documents/Sel/Greensheets/TyranSoulBond.tex)
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+Missing character: There is no Î in font ptmr7t!
+Missing character: There is no ± in font ptmr7t!
+ [1
+
+]
+[2
+
+] (./listgreen-PRINT7.aux)
+\openout1 = `listgreen-PRINT7.aux'.
+
+ (./listgreen-PRINT7.aux) ) 
 Here is how much of TeX's memory you used:
- 13382 strings out of 493089
- 200621 string characters out of 6134842
- 303980 words of memory out of 5000000
- 16584 multiletter control sequences out of 15000+600000
- 20801 words of font info for 51 fonts, out of 8000000 for 9000
+ 14008 strings out of 493089
+ 211388 string characters out of 6134842
+ 322751 words of memory out of 5000000
+ 17057 multiletter control sequences out of 15000+600000
+ 22404 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,12n,45p,4459b,695s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 47i,12n,45p,4459b,1507s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/
 base/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmb8a.pf
-b></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/lo
-cal/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on listgreen-PRINT.pdf (18 pages, 58249 bytes).
+b></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/l
+ocal/texlive/2015/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texli
+ve/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on listgreen-PRINT.pdf (78 pages, 144074 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 273 PDF objects out of 1000 (max. 8388607)
+ 187 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  23 OCT 2017 14:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  3 NOV 2017 18:09
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **badge-PRINT.tex
 (./badge-PRINT.tex
@@ -716,7 +715,7 @@ Overfull \hbox (18.13802pt too wide) in paragraph at lines 6--6
 Here is how much of TeX's memory you used:
  13883 strings out of 493089
  204871 string characters out of 6134842
- 338070 words of memory out of 5000000
+ 338197 words of memory out of 5000000
  17100 multiletter control sequences out of 15000+600000
  25124 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191

@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  22 OCT 2017 15:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  3 NOV 2017 18:13
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
 **mem-PRINT.tex
 (./mem-PRINT.tex
@@ -698,27 +697,24 @@ Non-PDF special ignored!
 
 [1
 
-] [2]
-./mem-PRINT.tex:5: Undefined control sequence.
-\MYsigns ->\sPixieOne 
-                      {}\sPixieTwo {}\sPixieThree {}\sPixieFour {}\sPixieFiv...
-l.5 \production
-               
-? 
-./mem-PRINT.tex:5: Emergency stop.
-\MYsigns ->\sPixieOne 
-                      {}\sPixieTwo {}\sPixieThree {}\sPixieFour {}\sPixieFiv...
-l.5 \production
-               
-End of file on the terminal!
-
- 
+] [2] (./mem-PRINT.aux) ) 
 Here is how much of TeX's memory you used:
- 13463 strings out of 493089
- 201431 string characters out of 6134842
- 291744 words of memory out of 5000000
- 16675 multiletter control sequences out of 15000+600000
+ 13899 strings out of 493089
+ 205047 string characters out of 6134842
+ 326499 words of memory out of 5000000
+ 17109 multiletter control sequences out of 15000+600000
  33631 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,13n,55p,1441b,1513s stack positions out of 5000i,500n,10000p,200000b,80000s
-./mem-PRINT.tex:5:  ==> Fatal error occurred, no output PDF file produced!
+ 46i,13n,55p,1441b,1509s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/ba
+se/8r.enc}</usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.p
+fb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb></u
+sr/local/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/loca
+l/texlive/2015/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on mem-PRINT.pdf (8 pages, 40946 bytes).
+PDF statistics:
+ 48 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
